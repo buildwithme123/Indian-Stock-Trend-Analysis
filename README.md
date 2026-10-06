@@ -1,7 +1,7 @@
 # Indian-Stock-Trend-Analysis
 # Sensex Stock Market Trend Prediction & ML Backtesting
 
-This project analyzes historical stock market data (focusing on the **Sensex**, along with Nifty 50, SBI, HDFC Bank, and TCS) using **Python**, and builds Machine Learning classification models to predict daily stock price movements and backtest trading strategies[cite: 3].
+This project analyzes historical stock market data (focusing on the **Sensex**, along with Nifty 50, SBI, HDFC Bank, and TCS) using **Python**, and builds Machine Learning classification models to predict daily stock price movements and backtest trading strategies.
 
 
 
